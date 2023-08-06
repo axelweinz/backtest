@@ -1,0 +1,13 @@
+.footer {
+  margin-top: 8rem;
+}
+
+.github-link,
+.github-link:visited {
+  text-decoration: none;
+  color: black;
+}
+
+#github-logo {
+  font-size: 1.5rem;
+}
